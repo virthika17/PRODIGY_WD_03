@@ -2,7 +2,7 @@
 
 #DESCRIPTION
 
--This project is a simple implementation of the classic tic tac toe gamr using HTML,CSS and JS.
+-This project is a simple implementation of the classic tic tac toe game using HTML,CSS and JS.
 
 #FEATURES
 
